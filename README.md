@@ -5,3 +5,5 @@ My favorite programming languages are Go and C++, though that does not mean I'm 
 I like to spend time thinking about better ways to improve our software and processes at Zendesk, where I work.
 
 Other than that I love studying classic algorithms and all things Distributed Systems.
+
+> “Eu Vi o Mundo... Ele Começava no Recife”
