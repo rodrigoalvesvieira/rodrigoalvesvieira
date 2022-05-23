@@ -1,9 +1,5 @@
-I was born and grew up in Recife, Brazil and now live in the United States.
+I'm a Software Engineer in New York City and work for Zendesk.
 
-My favorite programming languages are Go and C++, though that does not mean I'm great at them.
+I mostly like to write code in Go and C++ and to think and learn about distributed systems, classic algorithms and how to build software and engineering processes that are dependable, scalable and durable.
 
-I like to spend time thinking about better ways to improve our software and processes at Zendesk, where I work.
-
-Other than that I love studying classic algorithms and all things Distributed Systems.
-
-> “Eu Vi o Mundo... Ele Começava no Recife”
+> «Se vogliamo che tutto rimanga come è, bisogna che tutto cambi.» - Giuseppe Tomasi di Lampedusa
